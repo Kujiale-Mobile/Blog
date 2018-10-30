@@ -20,7 +20,7 @@ default_post_title: Untitled
 # Comments. Choose one by filling up the information
 comments:
   # Disqus comments
-  disqus_shortname:
+  disqus_shortname: kujiale-mobile
   # Facebook comments
   facebook:
     appid:
@@ -34,7 +34,7 @@ google_analytics:
 addthis:
 
 # set your own favicon
-favicon:
+favicon: https://avatars0.githubusercontent.com/u/40188012?s=200&v=4
 
 # Social Accounts
 twitter_url:
