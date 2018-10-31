@@ -1,9 +1,10 @@
 # Header
 menu:
-  Home: /
-  Archives: /archives
-  Tags: /tags
-  Categories: /categories
+  首页: /
+  # Archives: /archives
+  # Tags: /tags
+  文章目录: /categories
+  关于我们: /about
   Github:
     url: https://github.com/Kujiale-Mobile
     icon: github
