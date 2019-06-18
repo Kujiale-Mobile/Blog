@@ -740,8 +740,8 @@ _removeHandleBack = () => {
 # 最后
 当然在最后还是要附上实现效果图
 
-![image](http://note.youdao.com/yws/res/689/WEBRESOURCEa563d6cd8d782250aa7410021c6b32d6)
+![image](https://user-images.githubusercontent.com/4279515/59670834-2bd37380-91ef-11e9-84ba-237c02b09ea9.gif)
 
-![image](http://note.youdao.com/yws/res/692/WEBRESOURCE2ccb1c85018db44699983a82c7045f4d)
+![image](https://user-images.githubusercontent.com/4279515/59670837-2d04a080-91ef-11e9-8bb3-52fa4eef7548.gif)
 
 再一次附上 Demo 地址：[https://github.com/hzl123456/ModalViewDemo](https://github.com/hzl123456/ModalViewDemo)
