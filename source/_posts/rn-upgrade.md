@@ -4,7 +4,7 @@ author: 海豹
 subtitle: 最近把 RN 从 0.51.0 升级到 0.57.0 后，发现项目跑不起来了。摸索了半天终于解决了问题，这里做个记录。
 tags: [React-Native, 坑]
 
-categories: 小程序
+categories: React-Native
 ---
 移动端在酷家乐是一个重要入口，为了更快的进行 iOS 和 Android 端的迭代，我们采用了 React-Native 的解决方案。踩了很多坑，最近把 RN 从 0.51.0 升级到 0.57.0 后，发现项目跑不起来了。摸索了半天终于解决了问题，这里做个记录。
 
